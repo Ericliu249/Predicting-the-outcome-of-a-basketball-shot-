@@ -1,7 +1,7 @@
 # Predicting-the-outcome-of-a-basketball-shot
 
-Author:Yang Liu, Haitao Liu, Jiawei Xue
-Contact: eric.liu.249@gmail.com, yliu249@stevens.edu 
+- Author:Yang Liu, Haitao Liu, Jiawei Xue<br>
+- Contact: eric.liu.249@gmail.com, yliu249@stevens.edu 
 
 ## Introduction
 
